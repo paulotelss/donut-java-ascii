@@ -35,3 +35,7 @@ This project implements an algorithm that renders a rotating 3D donut using ASCI
 **Frame Rate:** A small delay is added between frames using `Thread.sleep(30)` to control the animation speed.
 
 ## This implementation effectively demonstrates how trigonometry and buffer manipulation can be used to create a simple 3D rendering in a text-based environment.
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
