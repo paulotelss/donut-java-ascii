@@ -36,6 +36,9 @@ This project implements an algorithm that renders a rotating 3D donut using ASCI
 
 ## This implementation effectively demonstrates how trigonometry and buffer manipulation can be used to create a simple 3D rendering in a text-based environment.
 
+![Captura de tela 2024-10-11 103836](https://github.com/user-attachments/assets/fdff4d73-63c6-4176-88a4-861705ff81f5)
+![Captura de tela 2024-10-11 103846](https://github.com/user-attachments/assets/fa2b2624-5739-4d66-95a5-73a11854d9a1)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
